@@ -1,0 +1,27 @@
+-Conducted as student 
+-Mock project 
+
+Part 1: Build a Conversion Funnel
+Create a new sheet named “conversion_funnel” using a pivot table.
+Count unique users for three stages: product page views, cart openings, and purchases.
+Add columns for total conversion rates and conversion rates to the next step.
+Part 2: Prepare Data for Cohort Analysis
+Create a new sheet called “purchase_activity.”
+Filter the “raw_user_activity” sheet for purchase events and copy the filtered data to “purchase_activity” (should contain 4,845 rows).
+Insert a pivot table in a new sheet called “first_purchase” to calculate the minimum event date for each user.
+Add a column in “purchase_activity” for first purchase dates using VLOOKUP().
+Create three new columns: event_month, first_purchase_month, and cohort_age.
+Use TEXT() for event_month and first_purchase_month; use DATEDIF() for cohort_age.
+Part 3: Calculate Retention Rates
+Insert a pivot table in a new sheet called “cohort_analysis” to represent cohorts based on the month of first purchase.
+Calculate the count of unique users for each cohort_age.
+Create a new sheet named “retention_rates” to layout a table for retention rates.
+Add row labels for cohorts and column labels for cohort ages (1-4 months).
+Write formulas to calculate retention rates based on cohort sizes.
+Part 4: Organize and Document the Spreadsheet
+Fill in the “Executive Summary” with results and analysis descriptions.
+Summarize findings from the “conversion_funnel” and “retention_rates” sheets.
+Explain data properties, assumptions, and cohort analysis decisions.
+Organize the sheet tabs: Table of Contents and Executive Summary first, followed by analytical results, calculations, and raw data.
+Complete the “Table of Contents” with descriptions for each section.
+Format the spreadsheet for readability, including borders, bold fonts, and frozen rows.
