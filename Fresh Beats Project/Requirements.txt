@@ -1,2 +1,18 @@
 -Conducted as student 
 -Mock Project 
+
+Company Overview: Provide a brief description of Fresh Beats, highlighting its role in the music industry as a streaming service and promotional platform for emerging artists.
+Business Challenge: Identify and outline key challenges Fresh Beats faces, including:
+Evaluating artist promotion effectiveness.
+Enhancing user engagement and converting free users to paid subscribers.
+Improving genre promotion for emerging artists through better content recommendations.
+Report Template: Use the provided report template to structure your findings.
+Project Summary Section: Fill in all fields in the “Project Summary” section of the template.
+Status Summary: Write a concise summary (no more than two paragraphs) that:
+Summarizes insights related to the business challenges.
+Relates insights back to the specified business needs.
+Insights Selection: Choose relevant insights from the dataset to address each business need listed in the project brief.
+Visuals Inclusion: Add appropriate visuals from the dataset to support each insight:
+Copy and paste visuals into the report using the “Paste unlinked” option.
+Consistent Formatting: Ensure consistent text styles are applied throughout the report for readability and professionalism.
+Submission: Share the finished report as a URL in Google Docs with the correct sharing settings for review.
