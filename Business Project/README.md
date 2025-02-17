@@ -13,14 +13,11 @@
 - Documented findings and analyses in the Executive Summary, summarizing key insights and assumptions from the data.
 - Organized the spreadsheet layout, improving readability and accessibility by reordering sheets and adding a Table of Contents.
 
-I built a conversion funnel and a cohort analysis framework to understand user behavior and track retention rates in an e-commerce environment. This was essential 
-for the company to identify how effectively they convert visitors into purchasers and to analyze the longevity of customer engagement over time.   
-The project addressed the need for insights into user interactions with the website, specifically how well product views translate into purchases and how retention 
-varies among different customer cohorts. This information helps the company make informed decisions on marketing strategies and website improvements.   
-I utilized Google Sheets for data analysis, employing features such as pivot tables, formulas (like VLOOKUP, TEXT, and DATEDIF), and filtering tools to manipulate 
-and analyze the raw user activity data.  
-The project took approximately 3 weeks to complete, allowing for thorough analysis, adjustments, and documentation of findings.
-I worked independently on this project.
+- I built a conversion funnel and a cohort analysis framework to understand user behavior and track retention rates in an e-commerce environment. This was essential for the company to identify how effectively they convert visitors into purchasers and to analyze the longevity of customer engagement over time.   
+- The project addressed the need for insights into user interactions with the website, specifically how well product views translate into purchases and how retention varies among different customer cohorts. This information helps the company make informed decisions on marketing strategies and website improvements.   
+- I utilized Google Sheets for data analysis, employing features such as pivot tables, formulas (like VLOOKUP, TEXT, and DATEDIF), and filtering tools to manipulate and analyze the raw user activity data.  
+- The project took approximately 3 weeks to complete, allowing for thorough analysis, adjustments, and documentation of findings.
+- I worked independently on this project.
   
 ### Conclusion 
 The analysis of the conversion funnel revealed a purchase click-through rate (CTR) of 10% and a conversion rate (CR) of 35%, indicating a healthy 
