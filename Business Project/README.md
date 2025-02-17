@@ -2,7 +2,7 @@
 
 
 ## Analyze user activity data from an e-commerce website to create a conversion funnel and cohort analysis that provides insights into users behavior.
-
+Googlsheets [here](https://docs.google.com/spreadsheets/d/196dYe4k4AjmssAa4D86IqeZlqNLMNF_uLWv5C7s7-uM/edit?usp=sharing)
 
 - Created a pivot table for the conversion funnel, identifying unique users at each stage: product views, cart openings, and purchases.  
 - Filtered purchase events from the raw data and copied 4,845 rows to the “purchase_activity” sheet for focused analysis. 
