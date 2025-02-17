@@ -1,0 +1,27 @@
+-Conducted as student 
+-Mock project 
+
+Data Cleaning:
+Clean the neighborhood column labels for consistent capitalization and remove trailing spaces. Store cleaned values in a new column called neighborhood_clean.
+Clean the bedrooms column by handling empty cells (representing studio apartments). Store cleaned values in a new column called bedrooms_clean.
+Neighborhood Analysis:
+Build a pivot table to identify the top 10 neighborhoods for vacation rentals based on the number_of_reviews_ltm column.
+Add a bar chart to visually display the number of reviews for the top 10 neighborhoods.
+Property Size Analysis:
+Build a pivot table to determine the most popular property sizes (number of bedrooms) for vacation rentals.
+Update the pivot table to analyze property size preferences across different neighborhoods, specifically for the top 10 neighborhoods.
+Revenue Calculation:
+Add a new column in the listings data called top_listing to indicate whether a listing matches the criteria of being in a top neighborhood and the most popular property size.
+Create a new column in the calendar data called revenue_earned, reflecting the revenue earned each night based on rental status.
+Create a corresponding revenue_earned column in the listings data using the SUMIF() function to aggregate total revenue from the calendar data.
+Build a pivot table to rank top listings according to revenue, applying a filter for top_listing.
+Top-Earning Listing Identification:
+Identify and document the top-earning listing's ID and its revenue over a 30-day period.
+Calculate the estimated annual revenue for top listings by multiplying the 30-day earnings by 12.
+Documentation and Formatting:
+Create an executive summary and a table of contents in the analysis.
+Document all data cleaning steps in a change log.
+Clearly outline any assumptions made during the analysis.
+Ensure consistent formatting, including borders, colors, font styles, and sizes across the spreadsheet.
+Sharing:
+Prepare the spreadsheet for sharing by setting permissions to allow the reviewer to comment and ensuring the link is accessible to anyone with it.
