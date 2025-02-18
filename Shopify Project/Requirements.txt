@@ -1,0 +1,39 @@
+-Conducted as student 
+-Mock project 
+
+Part 1: App Landscape
+Create a new sheet named App Landscape in your Power BI (.pbix) file.
+Add a KPI Card visual displaying the unique number of apps.
+Create a Line Chart with:
+Y-axis: Sum of review count.
+X-axis: Last modified date (ensure it is not in date hierarchy format).
+Create a Scatterplot with:
+X-axis: Reviews count.
+Y-axis: Average rating.
+Insert a Text Box next to the scatterplot to annotate your interpretation.
+Part 2: Reviews
+Create a new sheet named Reviews in your Power BI file.
+Create a new column in the Reviews table called helpful_reviews using the DAX expression: rating * (1 + helpful_count).
+Add a Card visual displaying the average value of the helpful_reviews column.
+Create a new column in the Reviews table called developer_answered using the DAX expression: 1 (TRUE) if developer_reply is not blank, otherwise 0 (FALSE).
+Create a Scatterplot comparing:
+Y-axis: Average rating.
+X-axis: Developer answered column.
+Part 3: App Reviews
+Create a new sheet named App Reviews in your Power BI file.
+Establish a relationship in the data model:
+Between Reviews table (app_id) and Apps table (id).
+Relationship type: Many-to-one (many from Reviews to one from Apps).
+Create a Bar Chart with:
+X-axis: Developer.
+Y-axis: Sum of ratings.
+Create another Bar Chart with:
+X-axis: Developer.
+Y-axis: Average of helpful_reviews.
+Create a Bar Chart to identify the most responsive developers:
+X-axis: Developer.
+Y-axis: Developer_answered column.
+Add a filter to this visual for reviews_count > 500.
+Part 4: Submitting Your Project
+Take a screenshot of each visual created for each question (8 total screenshots).
+Ensure the .pbix project is organized with one page for each section.
