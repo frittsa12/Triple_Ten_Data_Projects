@@ -5,8 +5,8 @@ Roles and Structure:
 Act as a junior analyst.
 Collaborate closely with a team leader (tutor) throughout the project.
 Engage with peers via Discord in the designated channel.
-Project Stages:
 
+Project Stages:
 Decomposition (Planning Stage):
 Choose a specific area of research from the business problem provided.
 Develop a detailed and structured research plan.
