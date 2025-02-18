@@ -1,0 +1,32 @@
+-Conducted as student 
+-Mock project 
+
+Find the number of taxi rides for each company on November 15-16, 2017
+Name the field trips_amount
+Display company_name and trips_amount
+Sort results in descending order of trips_amount
+Find the number of rides for taxi companies containing "Yellow" or "Blue" in their name for November 1-7, 2017
+Name the resulting field trips_amount
+Group results by company_name
+Identify the most popular taxi companies in November 2017
+Focus on Flash Cab and Taxi Affiliation Services
+Count the number of rides for these two companies
+Group all other companies under the label "Other"
+Name the company field company
+Name the ride count field trips_amount
+Sort results in descending order by trips_amount
+Step 2: Analyzing Ride Duration from the Loop to O'Hare on Rainy Saturdays
+Retrieve neighborhood IDs for:
+Loop (neighborhood_id: 50)
+O'Hare International Airport (neighborhood_id: 63)
+Categorize weather conditions as:
+"Bad" if weather_records.description contains "rain" or "storm"
+"Good" for all other weather conditions
+Use the CASE operator to classify the weather
+Create a final table with:
+date and hour (ts)
+weather_conditions
+Retrieve all Saturday rides that started in the Loop (neighborhood_id: 50) and ended at O'Hare (neighborhood_id: 63)
+Get weather conditions for each ride
+Retrieve ride duration for each trip
+Exclude rides without weather data
