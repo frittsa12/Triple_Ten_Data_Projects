@@ -5,14 +5,14 @@ Roles and Structure:
 Act as a junior analyst for Zomato.
 Collaborate with a team leader (tutor) throughout the project.
 Communicate with peers via Discord in the designated channel.
-Project Focus:
 
+Project Focus:
 Choose one of the following areas for analysis:
 Customer Analysis
 Restaurant Analysis
 Sales Analysis
-Project Stages:
 
+Project Stages:
 Decomposition (Planning Stage):
 Select a specific area of research.
 Develop a detailed and structured research plan.
