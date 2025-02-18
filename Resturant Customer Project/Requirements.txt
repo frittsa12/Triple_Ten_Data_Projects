@@ -1,0 +1,23 @@
+-Conducted as student 
+-Mock project 
+
+Roles and Structure:
+Act as a junior analyst.
+Collaborate closely with a team leader (tutor) throughout the project.
+Engage with peers via Discord in the designated channel.
+Project Stages:
+
+Decomposition (Planning Stage):
+Choose a specific area of research from the business problem provided.
+Develop a detailed and structured research plan.
+Define questions to answer with the dashboard.
+Formulate hypotheses related to the chosen area.
+Identify visualizations to be used in the dashboard.
+Outline data preparation steps needed before creating the dashboard.
+Submit the decomposition for team leader approval.
+
+Execution (Project Stage):
+Conduct research based on the approved plan.
+Create a dashboard using Tableau Public or Power BI.
+Ensure the dashboard tells a coherent story relevant to the research area.
+Document findings and insights in a report format.
