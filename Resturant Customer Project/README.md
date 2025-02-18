@@ -1,0 +1,24 @@
+# Resturant Customer Project. 
+
+
+## The purpose of this project is to analyze customer behavior and preferences in order to identify trends and insights that can inform strategic business decisions and enhance customer engagement. 
+
+
+ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
+ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
+ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
+
+
+WHAT DID YOU BUILD AND WHY?  
+WHAT PROBLEM DID IT SOLVE?  
+WHAT TECHNOLOGIES DID YOU USE?  
+HOW MANY WEEKS/MONTHS DID IT TAKE TO COMPLETE?  
+HOW MANY PEOPLE TOOK PART IN THE PROJECT AND WHAT WAS YOUR CONTRIBUTION?  
+  
+### Conclusions
+
+
+PARAGRAPH HERE
+
+
+### Recommendations
