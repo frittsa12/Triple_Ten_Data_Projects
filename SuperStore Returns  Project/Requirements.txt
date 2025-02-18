@@ -1,0 +1,60 @@
+-Conducted as student 
+-Mock project 
+
+What is Causing Returns?
+Join the Returns table with the Orders table using a LEFT JOIN.
+Create a calculated field where:
+“Yes” = 1 (Returned orders)
+“Null” = 0 (Non-returned orders)
+Build at least one worksheet for each analysis:
+Scatterplot: Total sales vs. total returns by product subcategory.
+Bar chart: Return rate by product category.
+Return rate by customer:
+Add a filter to remove customers with only one order.
+Map visualization: Return rate by geographic location (state, city, etc.).
+Time-based analysis: Return rate by a measure of time (month, week, etc.).
+Two composite charts:
+Mix of multiple factors (e.g., date/geography/product category).
+Document dashboard design requirements based on key findings.
+2. Building a Dashboard for Monitoring Returns
+Create a low-fidelity mock-up of the dashboard:
+At least three variations (pen-and-paper sketches).
+Submit scanned photos or images of the sketches.
+Select the best mock-up for implementation.
+Create a Tableau template for the dashboard:
+Use empty containers matching the mock-up design.
+Take a screenshot of the template for submission.
+Build the final dashboard in Tableau:
+Add worksheets to the template.
+Finalize with titles, labels, and markers for clarity.
+Submit:
+Mock-ups
+Template screenshot
+Final dashboard
+3. Presenting Your Analysis and Dashboard
+Construct a story arc for the presentation:
+Draft a Story in Tableau with captions only.
+Include:
+Summary of the returns analysis.
+Explanation of how returns should be measured (return rate, cost, or count).
+Identification of key root causes of returns.
+Overview of each Dashboard component:
+Description of each chart and its interpretation.
+Demonstration of how to use the Dashboard:
+Show filters for identifying root causes.
+Explain how insights can drive business actions.
+Conclusion & next steps (e.g., implementing the Dashboard).
+Enhance the Story Points:
+Add relevant worksheets and dashboards to support the narrative.
+Create presentation-style dashboards in Tableau.
+Save a version of the Tableau Story for submission.
+Deliver a 3-5 minute presentation:
+Submit in one of two formats:
+Screen recording (QuickTime, Windows built-in recorder, etc.).
+PDF slides with explanations.
+4. Submitting Your Project
+Create a ZIP archive containing:
+README.md file with a link to Tableau Public.
+Tableau workbook and supporting files (total size ≤ 9MB).
+Mock-ups, templates, and final dashboard files.
+Presentation (screen recording or PDF).
