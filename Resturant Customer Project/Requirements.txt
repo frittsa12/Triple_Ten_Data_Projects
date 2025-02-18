@@ -2,18 +2,25 @@
 -Mock project 
 
 Roles and Structure:
-Act as a junior analyst.
-Collaborate closely with a team leader (tutor) throughout the project.
-Engage with peers via Discord in the designated channel.
+Act as a junior analyst for Zomato.
+Collaborate with a team leader (tutor) throughout the project.
+Communicate with peers via Discord in the designated channel.
+Project Focus:
 
+Choose one of the following areas for analysis:
+Customer Analysis
+Restaurant Analysis
+Sales Analysis
 Project Stages:
+
 Decomposition (Planning Stage):
-Choose a specific area of research from the business problem provided.
+Select a specific area of research.
 Develop a detailed and structured research plan.
 Define questions to answer with the dashboard.
 Formulate hypotheses related to the chosen area.
-Identify visualizations to be used in the dashboard.
-Outline data preparation steps needed before creating the dashboard.
+Identify metrics and parameters to investigate.
+Outline visualizations to be included in the dashboard.
+Plan data preparation steps before dashboard creation.
 Submit the decomposition for team leader approval.
 
 Execution (Project Stage):
@@ -21,3 +28,19 @@ Conduct research based on the approved plan.
 Create a dashboard using Tableau Public or Power BI.
 Ensure the dashboard tells a coherent story relevant to the research area.
 Document findings and insights in a report format.
+Deliverables:
+Decomposition:
+A structured research plan that aligns with the chosen area.
+Clear presentation of the intended dashboard content.
+Dashboard:
+Relevant visualizations that contribute to the overall narrative.
+Created using either Tableau Public or Power BI.
+Report:
+Summarize findings and provide conclusions and recommendations.
+Format can vary (document, PDF, presentation) but must include insights from the analysis.
+Communication:
+Set up a virtual meeting with the team leader to clarify questions and discuss the plan.
+Maintain a professional tone in the Discord communication channel.
+Assessment Criteria:
+Ensure all components (decomposition, dashboard, report) meet the specified criteria for acceptance by the team leader.
+Focus on creativity and thorough exploration of the data during the project.
