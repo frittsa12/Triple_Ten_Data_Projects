@@ -1,0 +1,26 @@
+-Conducted as student 
+-Mock project 
+
+Part 1: Profits & Losses
+Identify the two biggest profit centers and two biggest loss-makers among dimension pairs (e.g., subcategory + region, shipping mode + product ID).
+Provide a visualization to justify conclusions.
+Identify products that the superstore should stop selling, using a visualization.
+Identify three product subcategories to focus on and three to stop selling based on profitability, supported by visualizations.
+Part 2: Advertising
+Identify the three best state + month combinations for advertising.
+Create a visualization of the average profit per month for these three states.
+Determine how much to spend on advertising, using a return on ad spend ratio of 1/5 of profits.
+Part 3: Returned Items
+LEFT JOIN the Returns table onto the Orders table. Ensure the Returned column contains both "Yes" and "null" values.
+Convert the Returned field into a calculated field where:
+"Yes" = 1
+"null" = 0
+Create visualizations to show:
+Products with the highest return rate.
+Customers with the highest return rate.
+Create a separate visualization of average profit vs. average return rate on a chosen dimension (e.g., state, shipping mode, product type).
+Present a visual argument on whether the superstore should continue or discontinue business based on this dimension.
+Part 4: Submitting the Project
+Submit a ZIP archive containing:
+README.md file with a link to the Tableau Public workbook.
+All project files (ensure total size does not exceed 9MB).
